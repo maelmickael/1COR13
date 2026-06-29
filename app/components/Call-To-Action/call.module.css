@@ -1,0 +1,12 @@
+
+.call
+{
+    min-height: 50vh;
+    background-image: url('/img/cta.jpg');
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

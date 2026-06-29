@@ -1,0 +1,13 @@
+
+.services
+{
+    min-height: 100vh;
+    width: 100%;
+    background-image: url('/img/service.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
