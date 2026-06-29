@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -36,4 +37,8 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 # 1cor13studio
 # 1cor13studio
+# 1cor13studio
+=======
+# 1cor13.studio
+>>>>>>> f402e8ae636a99604922ee776bc5c8b6192d5f23
 # 1cor13studio
