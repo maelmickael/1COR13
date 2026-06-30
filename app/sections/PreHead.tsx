@@ -6,7 +6,7 @@ import React from 'react'
 import { FaFacebookF, FaInstagram, FaBehance, FaLinkedinIn, FaYoutube, FaVimeoV } from "react-icons/fa";
 import { IoIosArrowDown } from "react-icons/io";
 
-const PreHead = ({ onArrowClick }: { onArrowClick: () => void }) => {
+const PreHead = () => {
     const media = [
         {icon: <FaFacebookF />, link: "https://www.facebook.com/"},
         {icon: <FaInstagram />, link: "https://www.instagram.com/"},

@@ -10,7 +10,6 @@ const brandStudio = () => {
   return (
     
     <>
-    
         <PreHead />
         <Header />
         <Heroo background='url("/img/brand.png")' traitColor='#00FFFF' bgButton='#00FFFF' textColor='#000000' un='Brand' deux='Studio' text="Studio de creation de logo, de charge graphique, carte de visite, de flyers, plaquette commerciale" />
